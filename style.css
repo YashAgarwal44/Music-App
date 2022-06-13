@@ -13,20 +13,14 @@ body{
     background-size: cover;
 }
 
-.div_speed{
-    float: left;
-}
-
 .div_speed_img{
     width: 200px;
     border-radius: 100px;
-}
-
-.div_volume{
-    float: right;
+    float: left;
 }
 
 .div_volume_img{
     width: 200px;
     border-radius: 100px;
+    float: right;
 }
