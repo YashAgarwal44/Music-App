@@ -24,3 +24,7 @@ body{
     border-radius: 100px;
     float: right;
 }
+
+canvas{
+    margin-top: 200px;
+}
